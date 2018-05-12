@@ -1,0 +1,29 @@
+_repo: The-Players_22426
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cole, Everett B.
+    birthdate: 1918
+    deathdate: 1977
+    gutenberg_agent_id: '25329'
+    url: http://www.gutenberg.org/2009/agents/25329
+    wikipedia: http://en.wikipedia.org/wiki/Everett_B._Cole
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The Players
+url: http://www.gutenberg.org/ebooks/22426
